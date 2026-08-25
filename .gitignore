@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/hf_download/
+data/Processed_Dataset/
+.DS_Store
